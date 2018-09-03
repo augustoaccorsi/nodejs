@@ -1,0 +1,5 @@
+---
+applications:
+  - name: tv-news-backend
+    host: tv-news-backend-i851169
+    memory: 128M

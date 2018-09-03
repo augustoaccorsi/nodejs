@@ -1,0 +1,5 @@
+---
+applications:
+  - name: rest-sample
+    host: rest-sample-i851169
+    memory: 128M

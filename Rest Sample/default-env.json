@@ -1,0 +1,6 @@
+{
+    "log_level": "info",
+    "rabbitmq_service_name": "bb-rabbitmq",
+    "postgres_service_name": "bb-postgres",
+    "user_service_endpoint": "https://bulletinboard-users.cfapps.sap.hana.ondemand.com/api/v1.0/users"
+}
